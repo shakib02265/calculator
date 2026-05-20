@@ -1,0 +1,6 @@
+{
+  "name": "Nexus Scientific Calc",
+  "description": "An interactive, high-fidelity engineering and graphing calculator with a luminous dark HUD and real-time AI mathematical solver.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
